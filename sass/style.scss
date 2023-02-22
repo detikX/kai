@@ -46,9 +46,6 @@ section {
         }
         .atas {
             font-size: 5.1rem;
-            color: orange;
-            border-bottom: 4px solid orange;
-            padding-bottom: 16px;
             @media screen and (max-width:766px) {
                 font-size: 3.1rem;
                 
@@ -62,7 +59,10 @@ section {
             }
         }
         .bawah {
+            color: orange;
             font-size: 5.3rem;
+            border-bottom: 4px solid orange;
+            padding-bottom: 8px;
             @media screen and (max-width:766px) {
                 font-size: 3.2rem;
                 
